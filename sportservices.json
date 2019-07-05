@@ -2,7 +2,7 @@
  "name": "Sport",
  "children": [
   {
-   "name": "Sport Web",
+   "name": "analytics",
    "children": [
     {
      "name": "cluster",
@@ -364,7 +364,14 @@
         {"name": "StackedAreaLayout", "value": 9121},
         {"name": "TreeMapLayout", "value": 9191}
        ]
-       },
+      },
+      {"name": "Operator", "value": 2490},
+      {"name": "OperatorList", "value": 5248},
+      {"name": "OperatorSequence", "value": 4190},
+      {"name": "OperatorSwitch", "value": 2581},
+      {"name": "SortOperator", "value": 2023}
+     ]
+    },
     {"name": "Visualization", "value": 16540}
    ]
   }
