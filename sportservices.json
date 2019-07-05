@@ -86,7 +86,6 @@
    "name": "display",
    "children": [
     {"name": "DirtySprite", "value": 8833},
-    {"name": "LineSprite", "value": 1732},
     {"name": "RectSprite", "value": 3623},
     {"name": "TextSprite", "value": 10066}
    ]
